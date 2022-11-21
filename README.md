@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lubin Gilles and I'm a 30 years.</h2>
+<h2 align="left">Hi 👋! My name is Lubin Gilles and I'm  a Junior Frontend Developer from Marseille, France.</h2>
 
 ###
 
